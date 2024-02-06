@@ -74,5 +74,5 @@ By building and evaluating different machine learning models, you can choose the
 
 ## Credits
 
-- The SMS Spam Collection dataset was obtained from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection).
+- The SMS Spam Collection dataset was obtained from [Kaggle](https://www.kaggle.com/datasets).
 - The code in this repository was written by Sai Saketh Motamarry.
